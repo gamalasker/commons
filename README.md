@@ -1,3 +1,3 @@
 # commons
 
-Don't use this library for commercial purposes, because it's used as a collection of code for Gamalasker Apps
+Don't use this library for commercial purposes, because it shouldn't be used as a library for other apps
